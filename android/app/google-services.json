@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "356311599066",
+    "project_id": "schoolfinder-c2e87",
+    "storage_bucket": "schoolfinder-c2e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356311599066:android:0e5caa89e8d779da69e2e3",
+        "android_client_info": {
+          "package_name": "com.example.schoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356311599066-tknj2t5ccv70idpd8n7322dgvgiu69s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schoolapp",
+            "certificate_hash": "371922d65b7d0a36ffbe140b758a9e44a6bccb0e"
+          }
+        },
+        {
+          "client_id": "356311599066-hbgsm0677r8ulo3c3rib8cjo4a3mkpc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5kyMHxLL0vka_pkNUrCkM0nEXVWjFxS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356311599066-hbgsm0677r8ulo3c3rib8cjo4a3mkpc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
